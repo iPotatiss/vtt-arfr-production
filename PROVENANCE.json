@@ -1,7 +1,7 @@
 {
   "schema": "arfr-pages-provenance.v1",
   "sourceRepository": "iPotatiss/remix-of-schmotatis-main",
-  "sourceCommit": "f1652ab2483ef89639c519c25e06909c0f4c6672",
+  "sourceCommit": "c601901e698a27675278a3d78f9f90c494de295c",
   "productionRepository": "iPotatiss/vtt-arfr-production",
   "productionBranch": "main",
   "productionUrl": "https://ipotatiss.github.io/vtt-arfr-production/",
@@ -9,7 +9,7 @@
   "supabaseProjectRef": "usxqvdjcazopvuvgnjjx",
   "publicBasePath": "/vtt-arfr-production/",
   "assetManifest": "site/arfr-production-asset-manifest.json",
-  "artifactDigest": "sha256:90783d25049998d8665269635ad06ccab55715b717bae38d0a7c1917d2f44b8a",
+  "artifactDigest": "sha256:6d9659606c3781772ef120cc4190d3b8d630e0c02ce24c205955c6d9abaac697",
   "sourceMaps": false,
-  "builtAt": "2026-08-31T12:10:00+02:00"
+  "builtAt": "2026-08-31T12:45:02+02:00"
 }
