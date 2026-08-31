@@ -2,7 +2,7 @@
   "version": "vtt-runtime-asset-identity-v1",
   "source": {
     "version": "vtt-runtime-asset-identity-v1",
-    "commit": "f50fc801dc0d072e3466677ace07a93340883ea3",
+    "commit": "4bbe621a9f164c6a4728b8aff3705cde0de062fb",
     "files": {
       "index.html": "e4f7f1ebcc53f020715decaf0a8876fcda7363bb1936cb6c9b89910580f57bbf",
       "package.json": "18b3b1e32715d68a2ce496b9b48141c1747f99a68484c41564d1a03ee3602072",
@@ -16,7 +16,7 @@
       "src/integrations/supabase/client.ts": "9c743319e56411fe0822e958df0d0f823b0513b11978ad71a017e0ed4c34190b",
       "src/lib/supabase-browser-runtime.ts": "7b1f2090b49dfcb43406bcb4ff29d7ffa89690280c7a87bca7a237304b03d5b7",
       "src/main.tsx": "3343356352f905542caffd46022d0ce636121780be142a937ba78e678c6b411e",
-      "src/pages/VTT.tsx": "ade6b7a04030f9b8f61ecd89527b5955d3cca817e2c1bf83254244971c985dd4",
+      "src/pages/VTT.tsx": "87658d9dc5d330e3bd1e35eea617bae0f9b36d0bea88605965121235f6d1b93f",
       "src/hooks/use-vtt-board-integration.ts": "321d24a82e4ce79c9ce1935a2c74f6768704d0ab24392c03858b5664212785fc",
       "src/hooks/use-vtt-board-sync.ts": "42e170fea5b336a7c083c1946bbcd6699f3d858e952df601d278efd4bf3384a1",
       "src/hooks/use-vtt-realtime-session.ts": "097de2409bfc52db5bf0b8c055a692de791809a8ec3c00acd4bd8fd1de8f4c85",
@@ -36,50 +36,50 @@
       "src/lib/vtt-runtime-build-identity.ts": "c672836fd06a26cf2ae819d96b1df290a90fc3271ed07d2c64a0fddb4758bced",
       "src/components/vtt/BoardSyncDiagnosticControl.tsx": "2dbbb75e24a78fa46a352b94c33d89c5b415548c8d460728348c79880967744a"
     },
-    "sourceIdentity": "sha256:1b23c65a150f9d4477c4c1a657d8b9c59da5d20b1e5593fdfb7c2d2acdaa2660"
+    "sourceIdentity": "sha256:3073914d80aeabb597412aa73e6c44a2780739530b77c342d60755dbce438836"
   },
   "graph": {
-    "viteManifest": "sha256:c757e478f4a7008d2590fc61f7c05e6c61e9a24a25ecde7111b69ec80b2c8be6",
+    "viteManifest": "sha256:a87a9bc4246af17bc84e71487c5bec03aff7718c70c7c795c6c7419f12de56bd",
     "assets": [
       {
-        "url": "/vtt-arfr-production/assets/BitmapFont-CPgZzW0c.js",
-        "sha256": "sha256:1595700576510bf96d95e4bf310bce3b7a9ba4a56eb9a6d973ad4286cfee018a"
+        "url": "/vtt-arfr-production/assets/BitmapFont-DNC9VhkX.js",
+        "sha256": "sha256:f9fde689689542610603ddfc98ce28ab4f8326cdfc8a5680eac47d5aeba7a34d"
       },
       {
-        "url": "/vtt-arfr-production/assets/BufferResource-DldqVjAO.js",
-        "sha256": "sha256:05fbee8a2e1c3fbe5453b09b875f5cf9bbcde3652fbe615fa92dcc8901556f84"
+        "url": "/vtt-arfr-production/assets/BufferResource-oarejIP9.js",
+        "sha256": "sha256:eecb5e96ef838c90a773592b253775cb1ae4cdc449fd9e8d040dc66141c850e7"
       },
       {
-        "url": "/vtt-arfr-production/assets/CanvasRenderer-zXQdlRrk.js",
-        "sha256": "sha256:de9bb9b400ff2e17f0b3c7905410075912ff7fcd1b3c2a965e95b5f88f465845"
+        "url": "/vtt-arfr-production/assets/CanvasRenderer-WqYXTrcM.js",
+        "sha256": "sha256:1e4b3ec6f27a223cdeb3c497d6d8fc7b482fcd9e5e8145d93adae00799e3d49f"
       },
       {
-        "url": "/vtt-arfr-production/assets/RenderTargetSystem-B4aKGHlo.js",
-        "sha256": "sha256:8f4b46488965b0bdcdcfd4547e2862fc0fdf015dbd72e450b3d4220a5a05ab8d"
+        "url": "/vtt-arfr-production/assets/RenderTargetSystem-BjlcJhFW.js",
+        "sha256": "sha256:564044fada11832d8b7cebd173a50eff9816102487824e270e33362245987128"
       },
       {
-        "url": "/vtt-arfr-production/assets/VTT-CZRyKjUG.js",
-        "sha256": "sha256:d5c3d6438074b2545fac28d74ee9a19ffc60fac5a211ce75b61077f6276ed8d6"
+        "url": "/vtt-arfr-production/assets/VTT-DqeBGD47.js",
+        "sha256": "sha256:6d81dc397acbe3c4623d5b581cca1bf1b069c72b21492254ee48c2b887ea6997"
       },
       {
-        "url": "/vtt-arfr-production/assets/WebGLRenderer-Crdyl_um.js",
-        "sha256": "sha256:d7e232d91d0f7cde35c8509fff2651dceecb2906106df071d2a4b88dfaa0d1d4"
+        "url": "/vtt-arfr-production/assets/WebGLRenderer-ClcLFk8b.js",
+        "sha256": "sha256:7412b25045146e81b5012f03895ef92450a7067073d12fd34cb772ec7953a081"
       },
       {
-        "url": "/vtt-arfr-production/assets/WebGPURenderer-H_CtGJR-.js",
-        "sha256": "sha256:2d388d29349e264b96120360273260d44d44bef9f9c5a6f1f459754339874775"
+        "url": "/vtt-arfr-production/assets/WebGPURenderer-zssFZUfT.js",
+        "sha256": "sha256:bd6aa248362b21b8c39d687ca969706cae74df7e7199d7e3c6dc3a191d89892c"
       },
       {
         "url": "/vtt-arfr-production/assets/abr.esm-CRM4vZuB.js",
         "sha256": "sha256:39332e72bdb068da6f73ae4bef4231b84e4928f2a8f002c3d87e334eeaadfca5"
       },
       {
-        "url": "/vtt-arfr-production/assets/browserAll-DcgL064M.js",
-        "sha256": "sha256:9c52c6ab9781ae7a5a22c20c18b8bf413765ea33eb6eb49e9bb7be6e594f89cf"
+        "url": "/vtt-arfr-production/assets/browserAll-DVTiL1GS.js",
+        "sha256": "sha256:f607b4eb531722da0f25a3c8178f09803f6ff4757e757f8211abac05c13cd77d"
       },
       {
-        "url": "/vtt-arfr-production/assets/brush-store-CWtokCL7.js",
-        "sha256": "sha256:22fb1376d20cfd177cd68f4abe3dee8fcec91701f5a26b1a833e7533ce3dacea"
+        "url": "/vtt-arfr-production/assets/brush-store-ByxYeG08.js",
+        "sha256": "sha256:f7d6863fdeefee5b1c0117cf6bcb2c9c27f3434d9a38cdaa0e4c1e3b5204e974"
       },
       {
         "url": "/vtt-arfr-production/assets/dark-stone-Ch3gcpSc.jpg",
@@ -90,20 +90,20 @@
         "sha256": "sha256:b4f3add809a6d59f46260e8fd56cab240f3153def977386b230a839e8cb0b281"
       },
       {
-        "url": "/vtt-arfr-production/assets/index-AoIOpCg1.js",
-        "sha256": "sha256:20c2424d4ae11537cd3ab3e9b684b0c1ca1db0615b219cababb60ea055c99300"
+        "url": "/vtt-arfr-production/assets/index-CeGqqLqu.js",
+        "sha256": "sha256:78bb1c4159c2067161c151c5eab5d4e262817dab132ea1322ec664e4aa2dec68"
       },
       {
         "url": "/vtt-arfr-production/assets/index-IlKfpPob.css",
         "sha256": "sha256:1370834247adf48d7d9db19f68271197372433152b0d15a726484c4d43493a69"
       },
       {
-        "url": "/vtt-arfr-production/assets/index.es-BEHcN9m4.js",
-        "sha256": "sha256:acfc8849cad10b44308d0cc021c9b3dba4866ee905786d1107eed192870ca232"
+        "url": "/vtt-arfr-production/assets/index.es-G8NYDcSI.js",
+        "sha256": "sha256:05e676d71a8d9fcffb3a5fbb26210403add01fc382ba6b06867ebe720db89cbc"
       },
       {
-        "url": "/vtt-arfr-production/assets/jspdf.es.min-Cp8HptvQ.js",
-        "sha256": "sha256:b93372b962a950a14aea54f3c6f5838145ce67e9c46b9caec8d8b63777764f1f"
+        "url": "/vtt-arfr-production/assets/jspdf.es.min-B0K-vNze.js",
+        "sha256": "sha256:729b3f5211266075d397044eaa0fdb6b01380580cf031347f100c196b0591073"
       },
       {
         "url": "/vtt-arfr-production/assets/parchment-H3FHWAbn.jpg",
@@ -118,22 +118,22 @@
         "sha256": "sha256:e81fb10a59a04c05df6c092757acb9da0d02eda9d8e52b3bb8dba93235710eb2"
       },
       {
-        "url": "/vtt-arfr-production/assets/vtt-death-save-flow-DpJQMFSB.js",
-        "sha256": "sha256:441b07c8d0fc22bafebf56a4bfdfc18e2817c118c05b005ab30f8e6fbcf7dddf"
+        "url": "/vtt-arfr-production/assets/vtt-death-save-flow-CH_LOI2r.js",
+        "sha256": "sha256:c7d8ad4d920289680feb0ac5fdfe22ad16716f86102e35558524b481f1732347"
       },
       {
         "url": "/vtt-arfr-production/assets/vtt-death-saves-DF6nahoT.js",
         "sha256": "sha256:1d9ff11905cc8fd24729346118f61a3d54746233b3086a7bed946c4c95799de7"
       },
       {
-        "url": "/vtt-arfr-production/assets/vtt-stabilize-Crdj5vXB.js",
-        "sha256": "sha256:df1889a07618d079229270dc9fb4797e4302f979c26ce7599bcddc16a2c5fd08"
+        "url": "/vtt-arfr-production/assets/vtt-stabilize-BM0UywFh.js",
+        "sha256": "sha256:7f4556837c1909e1298d76a590f1500686669cb5d4e70e5ed0bef02db026275b"
       },
       {
-        "url": "/vtt-arfr-production/assets/webworkerAll-DZZjNIqv.js",
-        "sha256": "sha256:7980130fad80a08eebae57bbf44f54290b95465efbb480d461681b65dd61a937"
+        "url": "/vtt-arfr-production/assets/webworkerAll-Rmtslntw.js",
+        "sha256": "sha256:edf00acef8dec4941a7481ab79b4da7adbd347f25a5d09a5a7d1459442e88596"
       }
     ]
   },
-  "runtimeIdentity": "sha256:00da63f46325eab982789cbf3a7d93799a6c2e160a68a91f25c0e5599e217849"
+  "runtimeIdentity": "sha256:dff9feb8aa819ba061f7cacecc8ae792807c6ad89636b800cfe19d6870c201d1"
 }
