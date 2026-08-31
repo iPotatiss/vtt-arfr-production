@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      (() => {
+        const key = "__vtt_spa_path";
+        const params = new URLSearchParams(window.location.search);
+        const route = params.get(key);
+        if (!route || !route.startsWith("/") || route.startsWith("//")) return;
+        const base = window.location.pathname.endsWith("/") ? window.location.pathname.slice(0, -1) : window.location.pathname;
+        window.history.replaceState(null, "", `${base}${route}`);
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VTT — Audited Mechanics</title>
+    <meta name="description" content="Production virtual tabletop and audited mechanics library." />
+    <meta name="author" content="VTT" />
+
+    <meta property="og:title" content="VTT — Audited Mechanics" />
+    <meta property="og:description" content="Production virtual tabletop and audited mechanics library." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="module" crossorigin src="/vtt-arfr-production/assets/index-DTuj9loe.js"></script>
+    <link rel="stylesheet" crossorigin href="/vtt-arfr-production/assets/index-IlKfpPob.css">
+      <meta name="vtt-runtime-source-identity" content="sha256:69f96e083dfe2f8e41e5679c2ca6a543faf1442f4035db3eda6ce9d95c9b6944" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

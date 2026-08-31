@@ -1,0 +1,139 @@
+{
+  "version": "vtt-runtime-asset-identity-v1",
+  "source": {
+    "version": "vtt-runtime-asset-identity-v1",
+    "commit": "bc962d25649668573f6d59ef6a7a1b29f736e941",
+    "files": {
+      "index.html": "e4f7f1ebcc53f020715decaf0a8876fcda7363bb1936cb6c9b89910580f57bbf",
+      "package.json": "d2e33543b8a2218e0626a235be77050745ad9d051ab8171b9d6cbda30893a6de",
+      "package-lock.json": "8f93f2e1893ee96eece61515a29b2c631c116932670cdb55938b945640659cda",
+      "vite.config.ts": "479a53db0eac2d91f87cf97d33fc08210b335ac982545bab1e174363221b3e2d",
+      "src/App.tsx": "f26ea2c3880f4a88fb0d364fbf5bafd4ffe0b53f58930669ffa8e34dca3538b7",
+      "src/pages/Login.tsx": "6252bf95a66d67f708188f4e49b964a5f303b3d7020c90b3d83aad0cd848ca73",
+      "src/lib/github-pages-routing.ts": "bd99011cf34b6dd5714da5c3c5ce56c43b4ec54534c3479900ac9fb7d77b9b32",
+      ".env.stable": "172afb6a23131228ab94d698e27b86ffc2f409934c42985d364de5fc91bbba28",
+      "scripts/vtt-stable-supabase-env.mjs": "7604bc1d5187406088426eeda4cc2aafb18557a1e7fc54e70e2b58d2c77853fe",
+      "src/integrations/supabase/client.ts": "9c743319e56411fe0822e958df0d0f823b0513b11978ad71a017e0ed4c34190b",
+      "src/lib/supabase-browser-runtime.ts": "7b1f2090b49dfcb43406bcb4ff29d7ffa89690280c7a87bca7a237304b03d5b7",
+      "src/main.tsx": "3343356352f905542caffd46022d0ce636121780be142a937ba78e678c6b411e",
+      "src/pages/VTT.tsx": "ade6b7a04030f9b8f61ecd89527b5955d3cca817e2c1bf83254244971c985dd4",
+      "src/hooks/use-vtt-board-integration.ts": "321d24a82e4ce79c9ce1935a2c74f6768704d0ab24392c03858b5664212785fc",
+      "src/hooks/use-vtt-board-sync.ts": "42e170fea5b336a7c083c1946bbcd6699f3d858e952df601d278efd4bf3384a1",
+      "src/hooks/use-vtt-realtime-session.ts": "097de2409bfc52db5bf0b8c055a692de791809a8ec3c00acd4bd8fd1de8f4c85",
+      "src/lib/campaign-board-api.ts": "664544459c611ff8dfce6c3037438cdeda12e8cd8ea0a3c9839d4bf98c179e77",
+      "src/lib/vtt-board-persist.ts": "33fdcd916d26b519629740e5a0502be3467b517fede7da974bfbd97e53c1c9ee",
+      "src/lib/vtt-board-visibility-revision.ts": "b52fcec391fe75a31cc64e67c9b219ab0b7139c9fef43adbec71f22d8abfcba7",
+      "src/lib/vtt-realtime/broadcast-events.ts": "edc2421113168e5ffafb68dbc5dae3cf8a7c669dd856e7d34f3d3b19081f1e5d",
+      "src/lib/vtt-realtime/remote-drag-preview-state.ts": "cecc8d5fe1ce24aa9597b6c51f695b0761979eed451d37e8e705a973873b69fe",
+      "src/lib/vtt-board-sync-diagnostic.ts": "cc6ce983396d8dd25db62445f6c48ea3f2d3c12cf3b66d88ff16b48c92f87226",
+      "src/lib/vtt-remote-drag-reconciliation.ts": "67a0af4406b2adcc4ca044cfd36bdeaf9909b217e6e469e71c499aa7b659f45b",
+      "src/lib/vtt-remote-drag-canonical-position.ts": "a6435868ade44bf075c17735df77fe30ad0d3343294e5383ae8eaea259cf43b6",
+      "src/lib/vtt-board-position-guard.ts": "e9496a564fc660cd9ecd8332e9a2b13e57e50ad63c2ce018c43b07c548d5f63d",
+      "src/lib/vtt-drag-final-intent.ts": "ca0359258ce056f12ed364cb52a97a86c15ad3cb2b279d7e1245252a9a7cbbad",
+      "src/lib/vtt-authoritative-board-operation.ts": "5d27ed1b00f67cb87f112d1261e092cc9ccf45d2e7acfe6bd7d475160368ed0b",
+      "src/lib/vtt-token-serialize.ts": "b178de648951231a7b0a3ce2f795aa6c60c5f660758c9644123d3b3c1539d87e",
+      "src/lib/board-sync-admin-trace-build.ts": "81db43d139261e136e494c33c73ea9ad127a1bacb292707c334a1063f7f729a0",
+      "src/lib/vtt-runtime-build-identity.ts": "c672836fd06a26cf2ae819d96b1df290a90fc3271ed07d2c64a0fddb4758bced",
+      "src/components/vtt/BoardSyncDiagnosticControl.tsx": "2dbbb75e24a78fa46a352b94c33d89c5b415548c8d460728348c79880967744a"
+    },
+    "sourceIdentity": "sha256:69f96e083dfe2f8e41e5679c2ca6a543faf1442f4035db3eda6ce9d95c9b6944"
+  },
+  "graph": {
+    "viteManifest": "sha256:0252359a9b7134093b224cd52ebde09451c4dbc6bee3703e5f645ad9d73fb9db",
+    "assets": [
+      {
+        "url": "/vtt-arfr-production/assets/BitmapFont-CtV-ZJH-.js",
+        "sha256": "sha256:7a9abb1d33ee0c87c6054cb9bd375b7284e713662cee2fd658ec31879aa67f33"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/BufferResource-B-13mJVA.js",
+        "sha256": "sha256:c3b45f3fb02690e7128fb1a2202ea86b8acc786e2bb7b6a33558d164a6541d08"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/CanvasRenderer-CUtvNz89.js",
+        "sha256": "sha256:6eb21c17de391bca30a8679e88c792e61f513e2d17ba1d81879c81c1312d3df4"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/RenderTargetSystem-DSEamEll.js",
+        "sha256": "sha256:62c6d5e249714b50494cffff6782b4a27c89d9c22f7fc84737425a59865fda02"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/VTT-DoRg-Znh.js",
+        "sha256": "sha256:2d19b11d943a415a68e75d4b82ded3c090820c1e3b5a1bef11e57dd1b72d475f"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/WebGLRenderer-Dnh6odk9.js",
+        "sha256": "sha256:9322c12d4f9ed2ad61ae548d8f687a8f8492947500b659957d42396c0ceafd4d"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/WebGPURenderer-d2aWr7Jf.js",
+        "sha256": "sha256:5c259fdd5b2d8c8fd8e49477d4a7d8698b06b757bcdfd2e296b194fda7a7dc4e"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/abr.esm-CRM4vZuB.js",
+        "sha256": "sha256:39332e72bdb068da6f73ae4bef4231b84e4928f2a8f002c3d87e334eeaadfca5"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/browserAll-Cyx2nvkW.js",
+        "sha256": "sha256:29869064e510734413bd676299ec1be9fe54e89b0cf82adf3a9fb82a81b21ed8"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/brush-store-CVu7-99r.js",
+        "sha256": "sha256:1412739643d72faac5763e49f032a177416eba217232d79da30cd84ad91f6760"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/dark-stone-Ch3gcpSc.jpg",
+        "sha256": "sha256:3a5e691fcd2c643a55709690d93eab335cb349c8f7dff9df140df3ebf0cd3e32"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/html2canvas.esm-CBrSDip1.js",
+        "sha256": "sha256:b4f3add809a6d59f46260e8fd56cab240f3153def977386b230a839e8cb0b281"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/index-DTuj9loe.js",
+        "sha256": "sha256:32131de8dbaa521141606cef093772b7c278f4a4cf2fb2a36e46333876ab3c4a"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/index-IlKfpPob.css",
+        "sha256": "sha256:1370834247adf48d7d9db19f68271197372433152b0d15a726484c4d43493a69"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/index.es-CyCKKwjt.js",
+        "sha256": "sha256:3dbe2c2f572e27e7173b85e0136d241cca44453f6e35fccd5d97b869bc7719dc"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/jspdf.es.min-BJ4ipKbC.js",
+        "sha256": "sha256:915246b582272603568fec550af88bffb14bd8250d4cbbcabcffc3e27c355f43"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/parchment-H3FHWAbn.jpg",
+        "sha256": "sha256:7a030eff8a770a56d00099ed28e582fb5b8b910aca951eeedf8f12e1a4eabb15"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/purify.es-BaNf_EpD.js",
+        "sha256": "sha256:e6a9da9087b71989d2e82292dc70225571e2aedf31ee118522b99900790aba51"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/tech-grid-Bqo1NE3L.jpg",
+        "sha256": "sha256:e81fb10a59a04c05df6c092757acb9da0d02eda9d8e52b3bb8dba93235710eb2"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/vtt-death-save-flow-BO_W3uqf.js",
+        "sha256": "sha256:b09fbbdea84e13d76b38a1a14ebb3c80423ba65ee704a3c9f3c9c6a842d2f6b9"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/vtt-death-saves-DF6nahoT.js",
+        "sha256": "sha256:1d9ff11905cc8fd24729346118f61a3d54746233b3086a7bed946c4c95799de7"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/vtt-stabilize-CELwpxzl.js",
+        "sha256": "sha256:5a7cec8012d8410d8061167ca071d34f0eab760ec570919567ffba0f9cae21c7"
+      },
+      {
+        "url": "/vtt-arfr-production/assets/webworkerAll-D-sJPLbT.js",
+        "sha256": "sha256:702d56500d9fa9c3065188dd7fe4d15931b839847792085a9bfaa5b04c937d0b"
+      }
+    ]
+  },
+  "runtimeIdentity": "sha256:1d138787f78f0a30c1fff6f32697f74fca36aac600a7d69a810864349ee0c2e7"
+}

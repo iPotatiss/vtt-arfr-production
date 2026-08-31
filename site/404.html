@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex">
+<title>Opening VTT</title></head><body><script>
+(() => {
+  const prefix = "/vtt-arfr-production";
+  const path = location.pathname.startsWith(prefix) ? location.pathname.slice(prefix.length) || "/" : "/";
+  location.replace(prefix + "/?__vtt_spa_path=" + encodeURIComponent(path + location.search + location.hash));
+})();
+</script></body></html>
