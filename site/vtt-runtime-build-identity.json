@@ -2,7 +2,7 @@
   "version": "vtt-runtime-asset-identity-v1",
   "source": {
     "version": "vtt-runtime-asset-identity-v1",
-    "commit": "8a457378540dacfa736cacaeee096050165b30d2",
+    "commit": "d7a3e7ce3456e826364c0bbc82490f4172c0fce7",
     "files": {
       "index.html": "e4f7f1ebcc53f020715decaf0a8876fcda7363bb1936cb6c9b89910580f57bbf",
       "package.json": "2fa643aad02bdaefe11fc78ad4000bf7c20668c6123633707fb2522ed864d0ad",
@@ -36,50 +36,50 @@
       "src/lib/vtt-runtime-build-identity.ts": "c672836fd06a26cf2ae819d96b1df290a90fc3271ed07d2c64a0fddb4758bced",
       "src/components/vtt/BoardSyncDiagnosticControl.tsx": "2dbbb75e24a78fa46a352b94c33d89c5b415548c8d460728348c79880967744a"
     },
-    "sourceIdentity": "sha256:556cf75251c6455bf3869ea2677d9b20c44723047dace2e083076c457d2af2d6"
+    "sourceIdentity": "sha256:cd02448c2179b1ab71d4f3350bec4caddf5ee77b77e91331d77b2805316428a9"
   },
   "graph": {
-    "viteManifest": "sha256:36ed0b299376457aa7e929cf28e0059baa837403e2499b4b83cd150ef64b2ea2",
+    "viteManifest": "sha256:9ed2219a247d5e198e6c8052a81833456305d49e3172ea739f85b90fff0c5924",
     "assets": [
       {
-        "url": "/vtt-arfr-production/assets/BitmapFont-DHu1Xx7Y.js",
-        "sha256": "sha256:e2acc5f0792a0c1bbee96540a1f11a47b8777d2892b8194ad49fcd8bc9032c30"
+        "url": "/vtt-arfr-production/assets/BitmapFont-BTJVK6Yx.js",
+        "sha256": "sha256:ba0646fbc13f5a1355f46d8ca8ceb8e69172951513b609b21f4ca24f6a593343"
       },
       {
-        "url": "/vtt-arfr-production/assets/BufferResource-Cc6h2jJL.js",
-        "sha256": "sha256:ebcca24523300aa174c88fb0a33436a4787e1d19947a2099030320e64a67e060"
+        "url": "/vtt-arfr-production/assets/BufferResource-pjtLl0eP.js",
+        "sha256": "sha256:4084bec56466792b6942cc57e3203c450a98313881e9087abb5f67081e2de5b5"
       },
       {
-        "url": "/vtt-arfr-production/assets/CanvasRenderer-BtHCSoy2.js",
-        "sha256": "sha256:9a024dd6ae6816d5f4f0c590c32b3b27dd0f1834e0e4e2a5147f4322030aed06"
+        "url": "/vtt-arfr-production/assets/CanvasRenderer-BLUDvgxl.js",
+        "sha256": "sha256:409996c4e6c15a81449290ebda9f3b299d4e42a78b3c6997bb66b168255a03ce"
       },
       {
-        "url": "/vtt-arfr-production/assets/RenderTargetSystem-OJBGwddB.js",
-        "sha256": "sha256:e3db42e9342b89cac83606502dc8a705ede7dbdf3e2c8ee54a0efcc98a352fbc"
+        "url": "/vtt-arfr-production/assets/RenderTargetSystem-C2UQjJXe.js",
+        "sha256": "sha256:498a2aa75961af8dfd18346b8685ad4e3f9caa7f9a0d985470b89668da06562a"
       },
       {
-        "url": "/vtt-arfr-production/assets/VTT-Bj4_WRpj.js",
-        "sha256": "sha256:3bb66f86ed425b43e38ea4f705c6dd6985dad47227fbc9049fc3112fef589184"
+        "url": "/vtt-arfr-production/assets/VTT-Bs4ZzshR.js",
+        "sha256": "sha256:f6647624f30cc8b16889a9d622c0568ce607cab39659a372e5a4647f02c68ee5"
       },
       {
-        "url": "/vtt-arfr-production/assets/WebGLRenderer-mf96mIfy.js",
-        "sha256": "sha256:9ace73f2d65af69051265c3ae2ad9598ed14a156234a6c76b140217b56f6bbf0"
+        "url": "/vtt-arfr-production/assets/WebGLRenderer-CZrMTUPr.js",
+        "sha256": "sha256:12853462f5e000fe3f0e490dbf3f2ddf3d21bb12b45aebbf41585e2fdd96cc8a"
       },
       {
-        "url": "/vtt-arfr-production/assets/WebGPURenderer-HLxAoBKR.js",
-        "sha256": "sha256:6b471af0d42aac9f20bd57b8290c307431584e271ae97c1f6f5c894d11a6339f"
+        "url": "/vtt-arfr-production/assets/WebGPURenderer-DnEOHQKg.js",
+        "sha256": "sha256:9ba4ed795ad075d68aba1edc49afbd8f58600d328cc95fd83fb62a57d718d36e"
       },
       {
         "url": "/vtt-arfr-production/assets/abr.esm-CRM4vZuB.js",
         "sha256": "sha256:39332e72bdb068da6f73ae4bef4231b84e4928f2a8f002c3d87e334eeaadfca5"
       },
       {
-        "url": "/vtt-arfr-production/assets/browserAll-BjlkD--A.js",
-        "sha256": "sha256:33b00b98f4fe87bcf75b462bdf38cb65cc1d435e79e6e13aa79c7f4323280970"
+        "url": "/vtt-arfr-production/assets/browserAll-B_yVBkto.js",
+        "sha256": "sha256:158eb0172903a3acb7cf41eee31cef8bf49f59654639c4a2a8154414a66a6430"
       },
       {
-        "url": "/vtt-arfr-production/assets/brush-store-BgzvJQL7.js",
-        "sha256": "sha256:d09b10b2702c615a09fec6ebae3f107cae1ca0c4a1d8c6c8f2682f0a3a3f690b"
+        "url": "/vtt-arfr-production/assets/brush-store-DMH2BOZY.js",
+        "sha256": "sha256:2c9a0fb3b150bc0aaa7219e70286c148676fd37d6414fe82953bdb86b066cb86"
       },
       {
         "url": "/vtt-arfr-production/assets/dark-stone-Ch3gcpSc.jpg",
@@ -94,16 +94,16 @@
         "sha256": "sha256:639661a88aa1658d9bf2ac6c036ebf6808b510fb33628bf9239a5cce48e22257"
       },
       {
-        "url": "/vtt-arfr-production/assets/index-CuIYeORJ.js",
-        "sha256": "sha256:cc868a71b739dedc84250b9f23a99599e412228c5100adeb41cd6b878a0d3547"
+        "url": "/vtt-arfr-production/assets/index-CK5Kb7Cp.js",
+        "sha256": "sha256:4a3d9df56142f18e000e96a77be59e03c864f7fe3d5ad543cfd4ce64cd718972"
       },
       {
-        "url": "/vtt-arfr-production/assets/index.es-BpoAJRiM.js",
-        "sha256": "sha256:1cd28f0ca4ee1dd27c5a85e4160bea5feecd798451bfeb125703aa4c1d75d838"
+        "url": "/vtt-arfr-production/assets/index.es-DL6upelA.js",
+        "sha256": "sha256:5c0c7102ad263d56a56849668b2aeadef4889a3053296632b299cdd67cdf7959"
       },
       {
-        "url": "/vtt-arfr-production/assets/jspdf.es.min-DOniRTB9.js",
-        "sha256": "sha256:b2dfac3efddb3b173c55d2a9cebf2b07c9982962d56715a0014dcc3769e81685"
+        "url": "/vtt-arfr-production/assets/jspdf.es.min-Bm2TqfW3.js",
+        "sha256": "sha256:9b8f3eeb1885227336f391c4ef4131647cb203691f015842142d2b0579d84994"
       },
       {
         "url": "/vtt-arfr-production/assets/parchment-H3FHWAbn.jpg",
@@ -118,22 +118,22 @@
         "sha256": "sha256:e81fb10a59a04c05df6c092757acb9da0d02eda9d8e52b3bb8dba93235710eb2"
       },
       {
-        "url": "/vtt-arfr-production/assets/vtt-death-save-flow-B4d1qoBc.js",
-        "sha256": "sha256:c664d76fb52e6043e7579d38131c7fe14717f244210df5847a4900c6650f9aa0"
+        "url": "/vtt-arfr-production/assets/vtt-death-save-flow-CDl8mVS1.js",
+        "sha256": "sha256:834d76c4119366490e29188104fec6a0609f90fbc8c0771beb6ea30f4e36c0c4"
       },
       {
         "url": "/vtt-arfr-production/assets/vtt-death-saves-DF6nahoT.js",
         "sha256": "sha256:1d9ff11905cc8fd24729346118f61a3d54746233b3086a7bed946c4c95799de7"
       },
       {
-        "url": "/vtt-arfr-production/assets/vtt-stabilize-BcsRt1Lk.js",
-        "sha256": "sha256:0e7857420c9fc31e56f9f3e11f8d4c9d5e944d33e27192770ff2653d13cf7cd5"
+        "url": "/vtt-arfr-production/assets/vtt-stabilize-BJ_9e2rE.js",
+        "sha256": "sha256:18e969f372329e8d2510e1ea7ac692c3dd623cfc5bfb5c4503359dab34ec1244"
       },
       {
-        "url": "/vtt-arfr-production/assets/webworkerAll-CZ0pgMPJ.js",
-        "sha256": "sha256:ef7c7b84decf83638fa637bfdb940b046514431e183eeb86b6f0f4063e4a3890"
+        "url": "/vtt-arfr-production/assets/webworkerAll-FPKunBRW.js",
+        "sha256": "sha256:c837d95788adf12b822d68ba2e1dc88d2d5ca3438a0d5f9d10026997da424d44"
       }
     ]
   },
-  "runtimeIdentity": "sha256:26ccbf91b2d3fae251b00f2d1e83b2fc127dc00b6b7a52146fa397568dbdaa13"
+  "runtimeIdentity": "sha256:73d8c186ee8134e527187ea3ca9acbea1dd33daa9aceffc3514b4eb61a4c2708"
 }
