@@ -1,10 +1,10 @@
 {
   "schema": "arfr-production-build.v1",
   "sourceRepository": "iPotatiss/remix-of-schmotatis-main",
-  "sourceCommit": "9540c9a96d82883e6f246225b6702986eaff40e9",
+  "sourceCommit": "ab6ce0b70120966b6d6e0b1fae116e4b10f1d550",
   "supabaseProjectRef": "usxqvdjcazopvuvgnjjx",
   "publicBasePath": "/vtt-arfr-production/",
   "productionUrl": "https://ipotatiss.github.io/vtt-arfr-production/",
   "sourceMaps": false,
-  "builtAt": "2026-09-02T00:38:08+02:00"
+  "builtAt": "2026-09-02T00:58:49+02:00"
 }
