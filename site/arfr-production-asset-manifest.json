@@ -1,6 +1,6 @@
 {
   "schema": "arfr-production-assets.v1",
-  "aggregateSha256": "sha256:69281e1e755ad426adb81bbc61453b293341c7cc134b8d9b5f64cdf8bbe5efbe",
+  "aggregateSha256": "sha256:8cbc1d8addf1642d981b0989c3a09bc0ab1a4bf8ae3cd937a3a680312695b10d",
   "files": [
     {
       "path": "404.html",
@@ -10,42 +10,42 @@
     {
       "path": "arfr-production-build.json",
       "bytes": 394,
-      "sha256": "sha256:14ad074bede6be87564aac27f2cac874e1bbef242ebc904a7cfc8ae0ca9ee93c"
+      "sha256": "sha256:757d0a5242908c0c6ae32e8ec788dfb17f70038b56be4e4a5615327fcd8bd971"
     },
     {
-      "path": "assets/BitmapFont-DGxDqN06.js",
+      "path": "assets/BitmapFont-D3THXCfO.js",
       "bytes": 13054,
-      "sha256": "sha256:460de05bf549bb2778803c771cdb8a4e136dc5219c28795fd5f525fec3eb4876"
+      "sha256": "sha256:6c2a5573580dd70de905846a59a99641e8efbd7a5522ad71dce8bbcdc40f1f47"
     },
     {
-      "path": "assets/BufferResource-B7xeL3Vr.js",
+      "path": "assets/BufferResource-COQJvxl_.js",
       "bytes": 9491,
-      "sha256": "sha256:1cf9fbbcabab01eb69248920fbfd6228eccf6897c4665fd32c9b23c0f2205d31"
+      "sha256": "sha256:9aecba82b90f777e699e6ac256dbadb33f817690841e89b6ede9f0f9ed9e7730"
     },
     {
-      "path": "assets/CanvasRenderer-CNKQND2M.js",
+      "path": "assets/CanvasRenderer-YFkQVL9d.js",
       "bytes": 17960,
-      "sha256": "sha256:5bde26e2254e8402e36dbb971c965747ec25252dccd29e49496e072f7196e3c1"
+      "sha256": "sha256:f182bc92c707e593ab0f8e8a87b48eedfdb82ca9f64c494efffbd78829e19e42"
     },
     {
-      "path": "assets/RenderTargetSystem-BIkMZMYW.js",
+      "path": "assets/RenderTargetSystem-CsRE6ZxC.js",
       "bytes": 46416,
-      "sha256": "sha256:7a13842dc68efead0fb7c4f1e811a3f13734dc8340d163147f73cb7ee4e44b9c"
+      "sha256": "sha256:0e59822ea136afa6cd94dfdf24430d2c287f3e53b1a5cb05a1024e58d3b984fd"
     },
     {
-      "path": "assets/VTT-fOrX97IT.js",
-      "bytes": 3628804,
-      "sha256": "sha256:a8e9adb7c94a05c6865440f781ce4f5f6f4845ea0a4863ca863fb34091ea0be4"
+      "path": "assets/VTT-CtHaFiAL.js",
+      "bytes": 3628907,
+      "sha256": "sha256:7e36216197e3f514210c0e2f0a45913f29bbeb11bb8e51a0684d59d3b3210229"
     },
     {
-      "path": "assets/WebGLRenderer-BO2U6m_v.js",
+      "path": "assets/WebGLRenderer-asmn3ffv.js",
       "bytes": 68604,
-      "sha256": "sha256:3f1c1f626b167c8fc5ab97dc18b9da83a0a25b5d7be955b8fabf279df062fb29"
+      "sha256": "sha256:6f94b2443cc521f58528530f879feabf40c944930470146bc03021dd027c1e6d"
     },
     {
-      "path": "assets/WebGPURenderer-BoLR1C6e.js",
+      "path": "assets/WebGPURenderer-Bx0zHkOA.js",
       "bytes": 38357,
-      "sha256": "sha256:c87b87df001a0bd6924e69e47fdcede6fdb546a246e8e63362de5cdcd2b85c18"
+      "sha256": "sha256:5a64e32bf011fe26fc06e322277399e9b142cf85fedde2ff9e417e1b31d861a7"
     },
     {
       "path": "assets/abr.esm-CRM4vZuB.js",
@@ -53,14 +53,14 @@
       "sha256": "sha256:39332e72bdb068da6f73ae4bef4231b84e4928f2a8f002c3d87e334eeaadfca5"
     },
     {
-      "path": "assets/browserAll-Di1ukpyr.js",
+      "path": "assets/browserAll-BiuuVLNJ.js",
       "bytes": 43209,
-      "sha256": "sha256:e3871a8c74bd1c1aa302799b251f1500b2e1bcd95c23f3b992b29d4b085a74d2"
+      "sha256": "sha256:0f0ec6da0a17d0004c6dfca055df1d434cfc18efe65900cc53dd2e744f396f12"
     },
     {
-      "path": "assets/brush-store-5bUm983W.js",
+      "path": "assets/brush-store-D856e7ad.js",
       "bytes": 2376,
-      "sha256": "sha256:ddb273a34b061167c9d9b5ad321835acf79753df81f615a6fd4a12ceb2dc096c"
+      "sha256": "sha256:5b1904885abb37de0147b1dd321273610f6846cda3791734a96999d5ef3d11ec"
     },
     {
       "path": "assets/dark-stone-Ch3gcpSc.jpg",
@@ -78,19 +78,19 @@
       "sha256": "sha256:639661a88aa1658d9bf2ac6c036ebf6808b510fb33628bf9239a5cce48e22257"
     },
     {
-      "path": "assets/index-COBHzsOb.js",
-      "bytes": 8887746,
-      "sha256": "sha256:3fa6e56ccef955532ab3a860fb68a51871e08e20177f697d6e2bbba610e5b01b"
+      "path": "assets/index-CKIggKc0.js",
+      "bytes": 8888384,
+      "sha256": "sha256:cb179d71d7e05379918d236d98227352f010708ff26d174c6efcfb0c034b8eb0"
     },
     {
-      "path": "assets/index.es-BDw0-mZb.js",
+      "path": "assets/index.es-DXbemgzA.js",
       "bytes": 150773,
-      "sha256": "sha256:c8fecb700dafbb9998c6d2ac62f005b5f57cf925a5732784e3237b5934ad85b7"
+      "sha256": "sha256:7a9e9a3f1b09cae24467ed61fe523debb82667d718d19c5ee0bffb727fbd2ecd"
     },
     {
-      "path": "assets/jspdf.es.min-B4nclWqi.js",
+      "path": "assets/jspdf.es.min-BJTlpXTQ.js",
       "bytes": 390336,
-      "sha256": "sha256:d819c0a3fe5b040e068e048e594ae144a6bf0d909634c9861388fbf575b5a644"
+      "sha256": "sha256:791a640c2d74e62eae0eeb1bdeb0c26244fb5c71b2aff35d6fcdd1c5c51e35ad"
     },
     {
       "path": "assets/parchment-H3FHWAbn.jpg",
@@ -108,9 +108,9 @@
       "sha256": "sha256:e81fb10a59a04c05df6c092757acb9da0d02eda9d8e52b3bb8dba93235710eb2"
     },
     {
-      "path": "assets/vtt-death-save-flow-CZW2m_MO.js",
+      "path": "assets/vtt-death-save-flow-BBEvMGqO.js",
       "bytes": 3394,
-      "sha256": "sha256:5663e46b0833db487b4d38cfe3d18a30432c03d506996764dd24a965de6f4030"
+      "sha256": "sha256:44f1501daeefbaa51728a4ddecd89ae57edfb0e1b85643e5648761b8945fd69f"
     },
     {
       "path": "assets/vtt-death-saves-DF6nahoT.js",
@@ -118,14 +118,14 @@
       "sha256": "sha256:1d9ff11905cc8fd24729346118f61a3d54746233b3086a7bed946c4c95799de7"
     },
     {
-      "path": "assets/vtt-stabilize-CSLJwHH4.js",
+      "path": "assets/vtt-stabilize-CVM0C_-8.js",
       "bytes": 1479,
-      "sha256": "sha256:ea056dd530b918866780933bda6e9768d342592197cdd53b4fae2f4efe8804d3"
+      "sha256": "sha256:5b004a7bce54f815de49f5b3c8d34919f035733132d88c5984e14b83c347080a"
     },
     {
-      "path": "assets/webworkerAll-BGgqXWFa.js",
+      "path": "assets/webworkerAll-CpuWSAyF.js",
       "bytes": 14898,
-      "sha256": "sha256:fbc8c8bd1c3e6109ceb69025cc0f65b5c83a62a51f70ac9d1e14d53f33a79c6c"
+      "sha256": "sha256:aa90f22ea90ee474d8d4b2ef439f42d8be7be73d398fcd6e60d8e84a73597284"
     },
     {
       "path": "favicon.ico",
@@ -135,7 +135,7 @@
     {
       "path": "index.html",
       "bytes": 1489,
-      "sha256": "sha256:3b479153a64f1ac08bbccb0037e27c66c0344dc9119c2cd87ab1a3df3789cceb"
+      "sha256": "sha256:8d865df16d937f71194c2a5aa8295e43449ca26eb7a355ad0208a69b6bc65d4d"
     },
     {
       "path": "placeholder.svg",
@@ -150,7 +150,7 @@
     {
       "path": "vtt-runtime-build-identity.json",
       "bytes": 8001,
-      "sha256": "sha256:fdc3b6202ba16d3541779ca39c5e767d04be61693a927bb4f59e185f4fad02d7"
+      "sha256": "sha256:1b64f2ab2d9990dfe3eb2fc5b9346c09a4711a2a22a317dc9c29b40648b837e6"
     }
   ]
 }
